@@ -1,4 +1,7 @@
 openai
 langchain
+langchain-community
+langchain-openai
 chromadb
 faiss-cpu
+jq
