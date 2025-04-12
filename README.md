@@ -44,8 +44,8 @@ The script checks for command-line input to start the conversation. It sets up a
 
 ### Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/ryanguomd/Chatbot-Project.git
+cd Chatbot-Project
 ```
 
 ### Install Required Packages
@@ -95,4 +95,4 @@ chromadb
 faiss-cpu
 ```
 
-By following these instructions and using the provided `requirements.txt`, you should be able to set up and run the project efficiently. Make sure to replace `<repository_url>` and `<repository_name>` with the actual repository URL and name.
+By following these instructions and using the provided `requirements.txt`, you should be able to set up and run the project efficiently. 
